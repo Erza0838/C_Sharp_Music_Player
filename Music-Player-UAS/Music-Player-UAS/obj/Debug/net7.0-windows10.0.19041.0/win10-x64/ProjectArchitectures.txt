@@ -1,0 +1,1 @@
+D:\MAUI フォルダ\Music_Player\Music-Player-UAS\Music-Player-UAS\Music-Player-UAS.csproj;x64
